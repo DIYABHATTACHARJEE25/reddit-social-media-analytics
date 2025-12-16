@@ -7,9 +7,7 @@ This project builds an automated pipeline to:
 - Clean and analyze post text for sentiment (TextBlob)
 - Export data and create interactive dashboards with Looker Studio
 
-## Dashboard Preview
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
 
 ## How It Works
 
@@ -29,10 +27,7 @@ This project builds an automated pipeline to:
 4. Export results and connect the CSV to Looker Studio using the provided dashboard template.
 5. Customize visuals as desired.
 
-## Screenshots
 
-![Sentiment Chart](screenshots/sentiment_chart.png)
-![Top Posts Table](screenshots/top_posts_table.png)
 
 ## Sample Insights
 
